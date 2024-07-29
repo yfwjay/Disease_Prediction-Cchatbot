@@ -5,9 +5,8 @@ This text file tries to explain what each dataset contains and how it is going t
 5 DATA SETS TO BE USED 
 1.symptom_Description.csv
 2.symptom_precaution.csv
-3.symptom_severity.csv
-4.testing.csv
-5.training.csv
+3.testing.csv
+4.training.csv
 
 
 1.
@@ -17,13 +16,9 @@ This text file tries to explain what each dataset contains and how it is going t
     => Has 42 diseases with their remedies ie precautions.What to do when diagnosed with the disease.
 
 3.
-    => Has symptoms one may experience and each symptom has its weight. It answers the question:
-        QUESTION: HOW SEVERE IS THE SYMPTOM?
-
-4.
     => The csv file has symptoms and their respective diseases as stated earier 42 diseases.(TESTING)
 
-5.
+4.
     => The csv file has symptoms and their respective diseases as stated earier 42 diseases(TRAINING)
 
 
