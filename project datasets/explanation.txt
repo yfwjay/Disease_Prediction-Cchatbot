@@ -29,7 +29,3 @@ This text file tries to explain what each dataset contains and how it is going t
 
 
 
-
-
-
-    https://www.kaggle.com/code/stoicstatic/twitter-sentiment-analysis-for-beginners/notebook
